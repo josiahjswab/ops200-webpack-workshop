@@ -35,7 +35,7 @@
     "nightmare": "^3.0.1",
     "serve-favicon": "^2.0.1",
     "webpack": "^4.41.4",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
     "axios-mock-adapter": "^1.6.1",
